@@ -6,3 +6,6 @@ h1 {
 table {
   border: 0.1em solid #111;
 }
+td {
+  background-color: #f00;
+}
